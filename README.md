@@ -2,7 +2,7 @@
 
 **UltraPluginManager (UPM)** is a modern, safe, and advanced plugin management system for Spigot servers (1.18.2+). It serves as a robust alternative to PlugMan, featuring a clean architecture, asynchronous operations, and a user-friendly GUI.
 
-![Java](https://img.shields.io/badge/Java-17-orange) ![Spigot](https://img.shields.io/badge/Spigot-1.18.2-yellow) ![License](https://img.shields.io/badge/License-MIT-blue)
+![Java](https://img.shields.io/badge/Java-17-orange) ![Spigot](https://img.shields.io/badge/Spigot-1.18.2-yellow) ![License](https://img.shields.io/badge/License-ARR-blue)
 
 ## ✨ Features
 
