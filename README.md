@@ -80,8 +80,3 @@ While UPM uses advanced techniques to unload plugins (closing ClassLoaders, clea
 *   **Use `/upm reload` for development:** It is great for testing small changes in your own plugins.
 *   **Avoid reloading complex plugins:** Plugins with heavy packet usage (ProtocolLib) or complex dependency injections may not reload cleanly.
 *   **Memory Leaks:** Repeatedly loading/unloading plugins *can* lead to Metaspace memory leaks over time. **Always restart your server for production changes.**
-
-## 👨‍💻 Developer
-
-Created by **Ywxlol**.
-```
